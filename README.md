@@ -1,16 +1,16 @@
-# expense_tracker
+# Expense tracker
+The application was developed on a course https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
-A new Flutter project.
+IThe app is designed to keep track of your spending. In it you can select the category of expenses and their date.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+The project applied color palette shifts when choosing a dark theme. Also, the markup was realized when the device is placed horizontally.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main categories](./screenshots/screenshot1.png)
+![Main categories](./screenshots/screenshot2.png)
+![Main categories](./screenshots/screenshot3.png)
+![Main categories](./screenshots/screenshot4.png)
+![Main categories](./screenshots/screenshot5.png)
+![Main categories](./screenshots/screenshot6.png)
+![Main categories](./screenshots/screenshot7.png)
